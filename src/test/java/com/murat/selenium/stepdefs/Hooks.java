@@ -12,9 +12,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Copyright 2016 Monitise Group.
+ * Copyright 2016 MuratKus
  * Part of GoEuro-Task
- * Created by kusm on 25/10/2016.
+ * Created by kusm on 24/10/2016.
  */
 public class Hooks {
 

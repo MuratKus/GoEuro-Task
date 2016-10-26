@@ -15,9 +15,9 @@ import java.util.List;
 import static com.murat.selenium.stepdefs.Hooks.driver;
 
 /**
- * Copyright 2016 Monitise Group.
+ * Copyright 2016 MuratKus
  * Part of GoEuro-Task
- * Created by kusm on 25/10/2016.
+ * Created by kusm on 24/10/2016.
  */
 public class MyStepdefs {
 
